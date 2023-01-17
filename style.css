@@ -18,7 +18,7 @@ body{
 	text-align: center;
     color: #f8f9fa;
     font-weight: bold;
-	background: url(/imgs/header.jpeg) no-repeat center center fixed;
+	background: url(imgs/header.jpeg) no-repeat center center fixed;
 	background-color: rgba(0, 0, 0, 0.5);
 	background-blend-mode: overlay;
     background-size: cover;
@@ -385,7 +385,7 @@ body{
 	letter-spacing: 5px;
 }
 .global-section1 {
-	background: url(../imgs/header.jpg) no-repeat top center fixed;
+	background: url(imgs/header.jpg) no-repeat top center fixed;
 	background-color: rgba(0, 0, 0, 0.699);
 	background-blend-mode: overlay;
     width: 100%;
